@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Project RealmDefense/[Ll]ibrary/
+/Project RealmDefense/[Tt]emp/
+/Project RealmDefense/[Oo]bj/
+/Project RealmDefense/[Bb]uild/
+/Project RealmDefense/[Bb]uilds/
+/Project RealmDefense/[Ll]ogs/
+/Project RealmDefense/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
