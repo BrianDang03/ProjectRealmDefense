@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile Road Corner
       objectReference: {fileID: 0}
+    - target: {fileID: 8311713884305859991, guid: 4451f81da3e02bd4e9875bb5c04bef9f, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
