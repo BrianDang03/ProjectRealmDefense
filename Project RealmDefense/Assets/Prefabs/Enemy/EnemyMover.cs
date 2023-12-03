@@ -13,8 +13,12 @@ public class EnemyMover : MonoBehaviour
     void OnEnable()
     {
         FindPath();
-        ReturnToStart();
         StartCoroutine(FollowPath());
+    }
+
+    void OnDisable()
+    {
+        ReturnToStart();
     }
 
     void Start()
